@@ -52,3 +52,26 @@
     ]
   }
 }
+
+{
+  "categories": {
+    "category": [
+      {
+        "categoryId": "1",
+        "categoryName": "Physical Analysis"
+      },
+      {
+        "categoryId": "2",
+        "categoryName": "Writing Analysis"
+      },
+      {
+        "categoryId": "3",
+        "categoryName": "Psycological Analysis"
+      },
+      {
+        "categoryId": "4",
+        "categoryName": "Visual Analysis"
+      }
+    ]
+  }
+}
